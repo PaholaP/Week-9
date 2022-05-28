@@ -1,0 +1,141 @@
+section {
+    text-align: center;
+    color: hotpink;
+    padding-top: 30%;
+}
+h1 {
+    text-align: center;
+    color: hotpink;
+    box-shadow: 5px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+
+}
+
+h3 { 
+    color: hotpink;
+    
+}
+
+
+.navbar-brand {
+    color: white;
+    font-family: fantasy;
+
+}
+.nav-link {
+    color: white;
+    font-family: fantasy;
+    font-weight: 500;
+
+}
+.nav-link:hover {
+    color: pink;
+    font-weight: 500;
+}
+.hero_title, .hero_desc {
+    font-family: fantasy;
+    font-weight: 900;
+}
+header{
+    text-align: center;
+    color: hotpink;
+    font-family: fantasy;
+    font-size: 20px;
+    background-color: pink;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-family: fantasy;
+    font-weight: 500;
+}
+
+.links {
+    color:hotpink;
+    font-family: fantasy;
+}
+.links:hover {
+    color:pink
+}
+
+.bgimage {
+    height:100vh;
+    background-image: url('https://pbs.twimg.com/media/FJANPWxX0AMwiDe.jpg');
+    background-size:cover;
+    position:center;
+}
+
+h3 {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png?20200512141346);
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-left: 50px;
+
+}
+
+/* text css above hero image*/
+
+.hero_title {
+    font-size: 1.5rem;
+}
+.hero_desc {
+    font-size: 1rem;
+}
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+tbody {
+    background-color: pink;
+}
+form {
+    position: relative;
+    padding-left: 6%;
+    padding-right: 6%;
+    background-size: contain;
+    border-style: dotted;
+    border-radius: 2%;
+    border-color: hotpink;
+    border-width: 5px;
+
+}
+.instagram {
+    color:pink;
+    text-align: center;
+
+}
+.instagram:hover {
+    color: hotpink;
+}
+
+h2 {
+    color: pink;
+}
+
+.btn {
+    color: hotpink;
+    background-color: pink;
+
+}
+
+.btn:hover {
+    color: white;
+}
+
+#name4, #inputEmail4, #inputMessage {
+    color:hotpink;
+}
+
+label {
+    color: hotpink;
+}
+#backhome  {
+    color: pink;
+}
